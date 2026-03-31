@@ -2,6 +2,8 @@
 
 # Mobile-Manipulator_MPC_CasADi
 
+[真机迁移说明](./REAL_ROBOT_PORTING.md)
+
 基于非线性模型预测控制 (Nonlinear Model Predictive Control, NMPC) 的移动机械臂 (Mobile Manipulator) 全身运动规划与控制
 
 - 控制对象（状态向量）：移动底盘 + 6 自由度机械臂 (x, y, theta, q1, q2, q3, q4, q5, q6)
